@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon unlock"></span>
+]]></content>
+    <tabTrigger>tuk-icon-unlock</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

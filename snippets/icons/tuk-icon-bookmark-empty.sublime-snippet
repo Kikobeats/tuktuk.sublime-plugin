@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon bookmark-empty"></span>
+]]></content>
+    <tabTrigger>tuk-icon-bookmark-empty</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

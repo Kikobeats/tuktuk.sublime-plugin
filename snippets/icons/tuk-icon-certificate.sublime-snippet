@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon certificate"></span>
+]]></content>
+    <tabTrigger>tuk-icon-certificate</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

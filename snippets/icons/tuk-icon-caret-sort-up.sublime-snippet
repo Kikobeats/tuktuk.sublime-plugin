@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon caret-sort-up"></span>
+]]></content>
+    <tabTrigger>tuk-icon-caret-sort-up</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

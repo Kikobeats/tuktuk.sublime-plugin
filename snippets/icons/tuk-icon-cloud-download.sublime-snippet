@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon cloud-download"></span>
+]]></content>
+    <tabTrigger>tuk-icon-cloud-download</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

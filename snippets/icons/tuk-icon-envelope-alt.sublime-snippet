@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon envelope-alt"></span>
+]]></content>
+    <tabTrigger>tuk-icon-envelope-alt</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

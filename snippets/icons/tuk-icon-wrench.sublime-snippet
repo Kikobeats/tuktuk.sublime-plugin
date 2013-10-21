@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon wrench"></span>
+]]></content>
+    <tabTrigger>tuk-icon-wrench</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon exclamation-sign"></span>
+]]></content>
+    <tabTrigger>tuk-icon-exclamation-sign</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

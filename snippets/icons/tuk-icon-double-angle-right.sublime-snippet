@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon double-angle-right"></span>
+]]></content>
+    <tabTrigger>tuk-icon-double-angle-right</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon google-plus-sign"></span>
+]]></content>
+    <tabTrigger>tuk-icon-google-plus-sign</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

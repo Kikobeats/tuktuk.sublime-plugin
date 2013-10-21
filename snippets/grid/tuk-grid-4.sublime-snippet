@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+        <div class="row ${0:margin-bottom}">
+            <div class="column_3"></div>
+            <div class="column_3"></div>
+            <div class="column_3"></div>
+            <div class="column_3"></div>
+        </div>
+]]></content>
+    <tabTrigger>tuk-grid-four</tabTrigger>
+    <scope>source.html</scope>
+    <description>4 column of 3 space</description>
+</snippet>

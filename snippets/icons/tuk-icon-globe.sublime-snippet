@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon globe"></span>
+]]></content>
+    <tabTrigger>tuk-icon-globe</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

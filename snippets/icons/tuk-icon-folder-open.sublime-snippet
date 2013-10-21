@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon folder-open"></span>
+]]></content>
+    <tabTrigger>tuk-icon-folder-open</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

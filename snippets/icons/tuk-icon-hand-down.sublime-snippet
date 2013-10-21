@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon hand-down"></span>
+]]></content>
+    <tabTrigger>tuk-icon-hand-down</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

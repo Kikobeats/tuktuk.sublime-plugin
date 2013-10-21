@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+        <fieldset>
+            <label>Feedback:<small>Comments here</small></label>
+            <textarea></textarea>
+        </fieldset>
+]]></content>
+    <tabTrigger>tuk-form-comment</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

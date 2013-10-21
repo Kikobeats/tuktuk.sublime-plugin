@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon align-justify"></span>
+]]></content>
+    <tabTrigger>tuk-icon-align-justify</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon phone-sign"></span>
+]]></content>
+    <tabTrigger>tuk-icon-phone-sign</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

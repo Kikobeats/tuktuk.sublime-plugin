@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon caret-down"></span>
+]]></content>
+    <tabTrigger>tuk-icon-caret-down</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

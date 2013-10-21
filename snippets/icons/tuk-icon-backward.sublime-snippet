@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon backward"></span>
+]]></content>
+    <tabTrigger>tuk-icon-backward</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

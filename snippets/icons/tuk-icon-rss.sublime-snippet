@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon rss"></span>
+]]></content>
+    <tabTrigger>tuk-icon-rss</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

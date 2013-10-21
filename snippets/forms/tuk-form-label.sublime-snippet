@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+        <label>Label example</label>
+        <input type="text" name="large" id="large" class="large" />
+]]></content>
+    <tabTrigger>tuk-form-label</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

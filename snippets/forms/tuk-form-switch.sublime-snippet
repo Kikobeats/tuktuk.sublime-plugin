@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+        <fieldset>
+            <label>Switches<small>Touch lover</small></label>
+            <div data-control="checkbox">
+                <input type="checkbox" value="None" id="prueba" />
+                <label for="prueba"></label>
+            </div>
+        </fieldset>
+]]></content>
+    <tabTrigger>tuk-form-switch</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

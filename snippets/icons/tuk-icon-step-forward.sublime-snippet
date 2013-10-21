@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon step-forward"></span>
+]]></content>
+    <tabTrigger>tuk-icon-step-forward</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

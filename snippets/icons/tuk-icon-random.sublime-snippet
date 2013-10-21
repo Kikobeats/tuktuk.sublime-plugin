@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon random"></span>
+]]></content>
+    <tabTrigger>tuk-icon-random</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

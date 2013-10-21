@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+        <div class="row ${0:margin-bottom}">
+            <div class="column_6"></div>
+            <div class="column_6"></div>
+        </div>
+]]></content>
+    <tabTrigger>tuk-grid-two</tabTrigger>
+    <scope>source.html</scope>
+    <description>2 column of 6 space</description>
+</snippet>

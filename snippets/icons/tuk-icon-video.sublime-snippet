@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon video"></span>
+]]></content>
+    <tabTrigger>tuk-icon-video</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

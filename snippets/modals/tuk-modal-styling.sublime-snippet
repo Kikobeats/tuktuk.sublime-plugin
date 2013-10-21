@@ -1,0 +1,14 @@
+<snippet><content><![CDATA[
+    <section class="padding bck light">
+        <div class="row margin-top margin-bottom text center">
+            <button class="offset_2 large column_4" data-tuktuk-modal="default_modal">Default</button>
+            <button class="large column_4 alert" data-tuktuk-modal="big_modal">Styling modal</button>
+        </div>
+    </section>
+]]></content>
+    <tabTrigger>tuk-modal-styling</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>
+
+

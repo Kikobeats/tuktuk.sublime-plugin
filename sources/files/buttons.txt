@@ -1,0 +1,5 @@
+button large icon ok
+button theme icon ok
+button success small icon ok
+button alert tiny icon ok
+button anchor theme

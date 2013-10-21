@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon volume-up"></span>
+]]></content>
+    <tabTrigger>tuk-icon-volume-up</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

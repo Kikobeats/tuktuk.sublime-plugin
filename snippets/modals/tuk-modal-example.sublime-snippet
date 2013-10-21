@@ -1,0 +1,20 @@
+<snippet><content><![CDATA[
+    <section class="padding bck light">
+        <div class="row">
+            <div class="column_10 offset_1 text center book">
+                <h1 class="color theme">Modals</h1>
+                <h3>Need popups for interact with the user, tuktuk puts you very easy.</h3>
+             </div>
+        </div>
+        <div class="row margin-top margin-bottom text center">
+            <button class="offset_2 large column_4" data-tuktuk-modal="default_modal">Default</button>
+            <button class="large column_4 alert" data-tuktuk-modal="big_modal">Styling modal</button>
+        </div>
+    </section>
+]]></content>
+    <tabTrigger>tuk-modal-example</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>
+
+

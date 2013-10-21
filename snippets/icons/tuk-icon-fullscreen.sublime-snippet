@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon fullscreen"></span>
+]]></content>
+    <tabTrigger>tuk-icon-fullscreen</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

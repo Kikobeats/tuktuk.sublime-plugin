@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon umbrella"></span>
+]]></content>
+    <tabTrigger>tuk-icon-umbrella</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

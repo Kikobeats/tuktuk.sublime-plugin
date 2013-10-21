@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon inbox"></span>
+]]></content>
+    <tabTrigger>tuk-icon-inbox</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

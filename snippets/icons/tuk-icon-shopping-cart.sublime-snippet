@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon shopping-cart"></span>
+]]></content>
+    <tabTrigger>tuk-icon-shopping-cart</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

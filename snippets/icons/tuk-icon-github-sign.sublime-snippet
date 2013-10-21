@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <span class="icon github-sign"></span>
+]]></content>
+    <tabTrigger>tuk-icon-github-sign</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

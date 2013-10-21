@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+            <a href="#" class="hide-tablet icon ok"></a>
+]]></content>
+    <tabTrigger>tuk-icon-hide-tablet</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
+</snippet>

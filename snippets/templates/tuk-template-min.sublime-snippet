@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="stylesheet" href="package/tuktuk.css">
+    <link rel="stylesheet" href="package/tuktuk.theme.mock.css">
+    <link rel="stylesheet" href="package/tuktuk.icons.css">
+</head>
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="package/tuktuk.js"></script>
+</body>
+</html>
+]]></content>
+	<tabTrigger>tuk-template-min</tabTrigger>
+</snippet>
