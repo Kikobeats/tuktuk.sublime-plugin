@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon qrcode"></span>
+<snippet><content><![CDATA[
+<span class="icon qrcode"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-qrcode</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-qrcode</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

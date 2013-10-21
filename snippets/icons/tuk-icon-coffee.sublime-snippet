@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon coffee"></span>
+<snippet><content><![CDATA[
+<span class="icon coffee"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-coffee</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-coffee</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

@@ -1,22 +1,22 @@
 <snippet>
-    <content><![CDATA[
-        <div class="column_3">
-            <h4>Normal Bullets </h4>
+<content><![CDATA[
+<div class="column_3">
+    <h4>Normal Bullets </h4>
+    <ul>
+        <li>Cras mattis consectetur purus sit amet fermentum.</li>
+        <li>
+            Donec ullamcorper nulla non metus auctor fringilla.
             <ul>
-                <li>Cras mattis consectetur purus sit amet fermentum.</li>
-                <li>
-                    Donec ullamcorper nulla non metus auctor fringilla.
-                    <ul>
-                        <li>Aenean eu leo quam.</li>
-                        <li>Pellentesque ornare sem lacinia quam venenatis vestibulum.</li>
-                        <li>Nullam quis risus eget urna mollis ornare vel eu leo.</li>
-                    </ul>
-                </li>
-                <li>Maecenas sed diam eget risus varius blandit sit amet non magna.</li>
+                <li>Aenean eu leo quam.</li>
+                <li>Pellentesque ornare sem lacinia quam venenatis vestibulum.</li>
+                <li>Nullam quis risus eget urna mollis ornare vel eu leo.</li>
             </ul>
-        </div>
+        </li>
+        <li>Maecenas sed diam eget risus varius blandit sit amet non magna.</li>
+    </ul>
+</div>
 ]]></content>
-    <tabTrigger>tuk-list-circle</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-list-circle</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>

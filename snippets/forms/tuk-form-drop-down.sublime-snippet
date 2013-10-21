@@ -1,17 +1,17 @@
 <snippet>
-    <content><![CDATA[
-        <fieldset>
-            <label>Drop down:<small>Select option</small></label>
-            <span class="select">
-                <select>
-                    <option value="1">HTML5 Jedi</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
-                </select>
-            </span>
-        </fieldset>
+<content><![CDATA[
+<fieldset>
+    <label>Drop down:<small>Select option</small></label>
+    <span class="select">
+        <select>
+            <option value="1">HTML5 Jedi</option>
+            <option value="2">Two</option>
+            <option value="3">Three</option>
+        </select>
+    </span>
+</fieldset>
 ]]></content>
-    <tabTrigger>tuk-form-drop-down</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-form-drop-down</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>

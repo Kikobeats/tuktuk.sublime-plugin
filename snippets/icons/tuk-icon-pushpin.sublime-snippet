@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon pushpin"></span>
+<snippet><content><![CDATA[
+<span class="icon pushpin"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-pushpin</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-pushpin</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

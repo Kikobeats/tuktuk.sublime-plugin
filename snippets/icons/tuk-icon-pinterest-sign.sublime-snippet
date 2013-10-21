@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon pinterest-sign"></span>
+<snippet><content><![CDATA[
+<span class="icon pinterest-sign"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-pinterest-sign</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-pinterest-sign</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

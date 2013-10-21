@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon upload-circle"></span>
+<snippet><content><![CDATA[
+<span class="icon upload-circle"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-upload-circle</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-upload-circle</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

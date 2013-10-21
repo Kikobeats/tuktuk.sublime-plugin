@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon align-left"></span>
+<snippet><content><![CDATA[
+<span class="icon align-left"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-align-left</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-align-left</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

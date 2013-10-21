@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[
-            <a href="#" class="hide-screen icon ok"></a>
+<content><![CDATA[
+<a href="#" class="hide-screen icon ok"></a>
 ]]></content>
-    <tabTrigger>tuk-icon-hide-screen</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-hide-screen</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>

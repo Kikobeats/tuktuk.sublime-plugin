@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon caret-sort"></span>
+<snippet><content><![CDATA[
+<span class="icon caret-sort"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-caret-sort</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-caret-sort</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

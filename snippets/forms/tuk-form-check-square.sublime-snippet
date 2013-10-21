@@ -1,12 +1,12 @@
 <snippet>
-    <content><![CDATA[
-        <fieldset>
-            <label>Checkbox:<small>Styled</small></label>
-            <input type="checkbox" name="radio1" /><span>One</span>
-            <input type="checkbox" name="radio2" /><span>Two</span>
-        </fieldset>
+<content><![CDATA[
+<fieldset>
+    <label>Checkbox:<small>Styled</small></label>
+    <input type="checkbox" name="radio1" /><span>One</span>
+    <input type="checkbox" name="radio2" /><span>Two</span>
+</fieldset>
 ]]></content>
-    <tabTrigger>tuk-form-check-square</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-form-check-square</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>

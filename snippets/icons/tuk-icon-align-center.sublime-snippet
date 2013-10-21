@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon align-center"></span>
+<snippet><content><![CDATA[
+<span class="icon align-center"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-align-center</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-align-center</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

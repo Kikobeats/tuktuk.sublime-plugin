@@ -68,8 +68,8 @@
             </div>
         </div>
     </section>
-]]></content>
-<tabTrigger>tuk-list-example</tabTrigger>
-<scope>source.html</scope>
-<description></description>
+    ]]></content>
+    <tabTrigger>tuk-list-example</tabTrigger>
+    <scope>source.html</scope>
+    <description></description>
 </snippet>

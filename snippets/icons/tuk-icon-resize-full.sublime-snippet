@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon resize-full"></span>
+<snippet><content><![CDATA[
+<span class="icon resize-full"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-resize-full</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-resize-full</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

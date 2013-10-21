@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon google-plus"></span>
+<snippet><content><![CDATA[
+<span class="icon google-plus"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-google-plus</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-google-plus</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

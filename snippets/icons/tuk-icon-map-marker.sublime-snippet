@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon map-marker"></span>
+<snippet><content><![CDATA[
+<span class="icon map-marker"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-map-marker</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-map-marker</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

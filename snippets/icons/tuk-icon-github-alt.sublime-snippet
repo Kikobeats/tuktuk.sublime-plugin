@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon github-alt"></span>
+<snippet><content><![CDATA[
+<span class="icon github-alt"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-github-alt</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-github-alt</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

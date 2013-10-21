@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon zoom-out"></span>
+<snippet><content><![CDATA[
+<span class="icon zoom-out"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-zoom-out</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-zoom-out</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

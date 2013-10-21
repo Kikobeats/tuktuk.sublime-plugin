@@ -1,110 +1,110 @@
 <snippet>
-	<content><![CDATA[
-        <!doctype html>
-        <html lang="en">
-        <head>
-            <meta charset="utf-8" />
-            <title>tuktuk - Landing Example</title>
-            <!-- Mobile Specific Metas -->
-            <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-            <link rel="stylesheet" href="package/tuktuk.css">
-            <link rel="stylesheet" href="package/tuktuk.theme.mock.css">
-            <!-- TUKTUK.WIDGETS -->
-            <link rel="stylesheet" href="package/tuktuk.icons.css">
-            <style>
-                body {
-                    background-color: #ecf0f1;
-                }
+<content><![CDATA[
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>tuktuk - Landing Example</title>
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <link rel="stylesheet" href="package/tuktuk.css">
+    <link rel="stylesheet" href="package/tuktuk.theme.mock.css">
+    <!-- TUKTUK.WIDGETS -->
+    <link rel="stylesheet" href="package/tuktuk.icons.css">
+    <style>
+        body {
+            background-color: #ecf0f1;
+        }
 
-                body > header .logo {
-                    margin-top: 8px;
-                    margin-right: 8px;
-                    max-height: 30px; }
+        body > header .logo {
+            margin-top: 8px;
+            margin-right: 8px;
+            max-height: 30px; }
 
-                body > footer img {
-                    height: 18px;
-                    position: relative;
-                    top: 5px;
-                    left: 2px; }
+        body > footer img {
+            height: 18px;
+            position: relative;
+            top: 5px;
+            left: 2px; }
 
-                section.landing input {
-                    border-radius: 1px 0px 0px 1px !important;
-                    height: 48px;}
+        section.landing input {
+            border-radius: 1px 0px 0px 1px !important;
+            height: 48px;}
 
-                section.landing button {
-                    border-radius: 0px 1px 1px 0px !important;
-                    height: 48px;}
+        section.landing button {
+            border-radius: 0px 1px 1px 0px !important;
+            height: 48px;}
 
-                .button.large, button.large {
-                    font-size: 1.3em;}
+        .button.large, button.large {
+            font-size: 1.3em;}
 
-                #wall {
-                    background: #111 url("http://cdn.tapquo.com/images/patterns/runner.jpg") no-repeat center center fixed;
-                }
+        #wall {
+            background: #111 url("http://cdn.tapquo.com/images/patterns/runner.jpg") no-repeat center center fixed;
+        }
 
-            </style>
-        </head>
-        <body>
-            <!-- ========================== HEADER ========================== -->
-            <!-- <header class="bck margin-top margin-bottom"></header> -->
+    </style>
+</head>
+<body>
+    <!-- ========================== HEADER ========================== -->
+    <!-- <header class="bck margin-top margin-bottom"></header> -->
 
-            <section id="wall" class="bck theme landing text center padding-top">
-                <div class="row padding-top">
-                    <div class="column_10 offset_1">
-                        <h2>Zombeats</h2>
-                        <h5 class="margin-bottom"><strong>Human beatbox social network</strong></h5>
-                    </div>
-                </div>
-                <div class="row margin-top padding-top">
-                    <div class="column_6 offset_3 form subscribe">
-                        <input type="email" id="mail" class="large" placeholder="Your email address">
-                        <button class="theme button large icon envelope"></button>
-                    </div>
-                </div>
-                <h5 class="text book">Join in the beta program. Now.</h5>
-            </section>
+    <section id="wall" class="bck theme landing text center padding-top">
+        <div class="row padding-top">
+            <div class="column_10 offset_1">
+                <h2>Zombeats</h2>
+                <h5 class="margin-bottom"><strong>Human beatbox social network</strong></h5>
+            </div>
+        </div>
+        <div class="row margin-top padding-top">
+            <div class="column_6 offset_3 form subscribe">
+                <input type="email" id="mail" class="large" placeholder="Your email address">
+                <button class="theme button large icon envelope"></button>
+            </div>
+        </div>
+        <h5 class="text book">Join in the beta program. Now.</h5>
+    </section>
 
-            <section class="bck light padding text center ">
-                <div class="row padding-bottom">
-                    <div class="column_10 offset_1">
-                        <h1 class="text book color default">Beatbox is a universal language.</h1>
-                        <h4 style="margin-top: 5px;">No matter the language you speak.</h4>
-                    </div>
-                </div>
+    <section class="bck light padding text center ">
+        <div class="row padding-bottom">
+            <div class="column_10 offset_1">
+                <h1 class="text book color default">Beatbox is a universal language.</h1>
+                <h4 style="margin-top: 5px;">No matter the language you speak.</h4>
+            </div>
+        </div>
 
-                <div class="row padding-top">
-                    <div class="column_3">
-                        <h2 class="icon facebook color theme"></h2>
-                        <h5 class="text normal">Social Network Login</h5>
-                        <small>Join with your facebook or twitter account. Easily and secure.</small>
-                    </div>
-                    <div class="column_3">
-                        <h2 class="icon play color theme"></h2>
-                        <h5 class="text normal">Youtube Integration</h5>
-                        <small>If you have a Youtube channel you're welcome. The community need you!</small>
-                    </div>
-                    <div class="column_3">
-                        <h2 class="icon globe color theme"></h2>
-                        <h5 class="text normal">Geolocation</h5>
-                        <small>Discover other beatboxers near to you and make new friends.</small>
-                    </div>
-                    <div class="column_3">
-                        <h2 class="icon certificate color theme"></h2>
-                        <h5 class="text normal">...and more!</h5>
-                        <small>very fast site, responsive design,... the future of the social beatbox in your hand.</small>
-                    </div>
-                </div>
-            </section>
+        <div class="row padding-top">
+            <div class="column_3">
+                <h2 class="icon facebook color theme"></h2>
+                <h5 class="text normal">Social Network Login</h5>
+                <small>Join with your facebook or twitter account. Easily and secure.</small>
+            </div>
+            <div class="column_3">
+                <h2 class="icon play color theme"></h2>
+                <h5 class="text normal">Youtube Integration</h5>
+                <small>If you have a Youtube channel you're welcome. The community need you!</small>
+            </div>
+            <div class="column_3">
+                <h2 class="icon globe color theme"></h2>
+                <h5 class="text normal">Geolocation</h5>
+                <small>Discover other beatboxers near to you and make new friends.</small>
+            </div>
+            <div class="column_3">
+                <h2 class="icon certificate color theme"></h2>
+                <h5 class="text normal">...and more!</h5>
+                <small>very fast site, responsive design,... the future of the social beatbox in your hand.</small>
+            </div>
+        </div>
+    </section>
 
-            <!-- ========================== FOOTER ========================== -->
-                <footer class="bck color dark">
+    <!-- ========================== FOOTER ========================== -->
+        <footer class="bck color dark">
 
-                </footer>
+        </footer>
 
-            <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-            <script src="package/tuktuk.js"></script>
-        </body>
-        </html>
+    <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+    <script src="package/tuktuk.js"></script>
+</body>
+</html>
 ]]></content>
-	<tabTrigger>tuk-template-landing</tabTrigger>
+<tabTrigger>tuk-template-landing</tabTrigger>
 </snippet>

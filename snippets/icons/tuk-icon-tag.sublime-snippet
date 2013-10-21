@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon tag"></span>
+<snippet><content><![CDATA[
+<span class="icon tag"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-tag</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-tag</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

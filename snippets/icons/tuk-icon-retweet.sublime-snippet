@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon retweet"></span>
+<snippet><content><![CDATA[
+<span class="icon retweet"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-retweet</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-retweet</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

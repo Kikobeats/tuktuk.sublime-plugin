@@ -1,11 +1,11 @@
 <snippet>
-    <content><![CDATA[
-        <fieldset>
-            <label>Required:<small>field</small></label>
-            <input type="text" name="name" id="name" required />
-        </fieldset>
+<content><![CDATA[
+<fieldset>
+    <label>Required:<small>field</small></label>
+    <input type="text" name="name" id="name" required />
+</fieldset>
 ]]></content>
-    <tabTrigger>tuk-form-required</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-form-required</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>

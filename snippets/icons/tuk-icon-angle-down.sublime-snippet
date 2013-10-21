@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon angle-down"></span>
+<snippet><content><![CDATA[
+<span class="icon angle-down"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-angle-down</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-angle-down</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

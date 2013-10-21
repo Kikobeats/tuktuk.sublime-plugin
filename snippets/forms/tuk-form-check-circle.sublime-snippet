@@ -1,12 +1,12 @@
 <snippet>
-    <content><![CDATA[
-        <fieldset>
-            <label>Radio<small>buttons</small></label>
-            <input type="radio" name="radio1"  /><span>Yes</span>
-            <input type="radio" name="radio2" disabled /><span>No</span>
-        </fieldset>
+<content><![CDATA[
+<fieldset>
+    <label>Radio<small>buttons</small></label>
+    <input type="radio" name="radio1"  /><span>Yes</span>
+    <input type="radio" name="radio2" disabled /><span>No</span>
+</fieldset>
 ]]></content>
-    <tabTrigger>tuk-form-check-circle</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-form-check-circle</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>

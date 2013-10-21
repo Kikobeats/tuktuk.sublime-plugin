@@ -1,8 +1,8 @@
-<snippet>
-    <content><![CDATA[
-            <span class="icon share-alt"></span>
+<snippet><content><![CDATA[
+<span class="icon share-alt"></span>
 ]]></content>
-    <tabTrigger>tuk-icon-share-alt</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-share-alt</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
+

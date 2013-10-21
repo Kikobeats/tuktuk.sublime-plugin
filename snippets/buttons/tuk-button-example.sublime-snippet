@@ -1,41 +1,41 @@
 <snippet>
-    <content><![CDATA[
-            <section class="padding">
-                 <div class="row">
-                    <div class="column_4">
-                        <div class="text book center">
-                            <h1 class="color theme">Buttons</h1>
-                            <h3>Gallery of styles and sizes that will be enough to interact with your site.</h3>
-                            <div class="margin-top">
-                                <a href="#" class="button large">Large</a>
-                                <a href="#" class="button theme">Normal</a>
-                                <a href="#" class="button success small">Small</a>
-                                <a href="#" class="button alert tiny">Tiny</a>
-                            </div>
-
-                            <div class="margin-top">
-                                <a href="#" class="button large"><span class="icon ok"></span>Large</a>
-                                <a href="#" class="button theme"><span class="icon ok"></span>Normal</a>
-                                <a href="#" class="button success small"><span class="icon ok"></span>Small</a>
-                                <a href="#" class="button alert tiny"><span class="icon ok"></span>Tiny</a>
-                            </div>
-
-                            <div class="margin-top">
-                                <a href="#" class="button large icon ok"></a>
-                                <a href="#" class="button theme icon ok"></a>
-                                <a href="#" class="button success small icon ok"></a>
-                                <a href="#" class="button alert tiny icon ok"></a>
-                            </div>
-
-                            <div class="margin-top">
-                                <a href="#" class="button anchor theme"><span class="icon ok"></span>Anchor</a>
-                            </div>
-                        </div>
-                    </div>
+<content><![CDATA[
+<section class="padding">
+     <div class="row">
+        <div class="column_4">
+            <div class="text book center">
+                <h1 class="color theme">Buttons</h1>
+                <h3>Gallery of styles and sizes that will be enough to interact with your site.</h3>
+                <div class="margin-top">
+                    <a href="#" class="button large">Large</a>
+                    <a href="#" class="button theme">Normal</a>
+                    <a href="#" class="button success small">Small</a>
+                    <a href="#" class="button alert tiny">Tiny</a>
                 </div>
-            </section>
+
+                <div class="margin-top">
+                    <a href="#" class="button large"><span class="icon ok"></span>Large</a>
+                    <a href="#" class="button theme"><span class="icon ok"></span>Normal</a>
+                    <a href="#" class="button success small"><span class="icon ok"></span>Small</a>
+                    <a href="#" class="button alert tiny"><span class="icon ok"></span>Tiny</a>
+                </div>
+
+                <div class="margin-top">
+                    <a href="#" class="button large icon ok"></a>
+                    <a href="#" class="button theme icon ok"></a>
+                    <a href="#" class="button success small icon ok"></a>
+                    <a href="#" class="button alert tiny icon ok"></a>
+                </div>
+
+                <div class="margin-top">
+                    <a href="#" class="button anchor theme"><span class="icon ok"></span>Anchor</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 ]]></content>
-    <tabTrigger>tuk-icon-example</tabTrigger>
-    <scope>source.html</scope>
-    <description></description>
+<tabTrigger>tuk-icon-example</tabTrigger>
+<scope>source.html</scope>
+<description></description>
 </snippet>
